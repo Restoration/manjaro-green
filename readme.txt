@@ -1,5 +1,5 @@
 === ManjaroGreen ===
-Contributors: the WordPress team
+Contributors: Ryota Yamamoto
 Requires at least: WordPress 4.7
 Tested up to: WordPress 4.7-trunk
 Version: 1.0
